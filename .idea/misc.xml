@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Solodroid/libraries/SolodroidAdsSDK/demo/src/main/res/layout/activity_main.xml" value="0.3875" />
+        <entry key="..\:/Solodroid/libraries/SolodroidAdsSDK/library/src/main/res/layout/view_banner_ad.xml" value="0.3875" />
+        <entry key="..\:/Solodroid/libraries/SolodroidAdsSDK/library/src/main/res/layout/view_native_ad_large.xml" value="0.21927083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
